@@ -704,7 +704,7 @@ function initialize_language_strings() {
 	asleap_texts["GERMAN",0]="Rückmeldung"
 	asleap_texts["TURKISH",0]="Yanıt"
 	asleap_texts["ARABIC",0]="جواب"
-	asleap_texts["CHINA",0]="Response"
+	asleap_texts["CHINA",0]="响应"
 
 	asleap_texts["ENGLISH",1]="airgeddon. Decrypted password using asleap"
 	asleap_texts["SPANISH",1]="airgeddon. Contraseña descifrada con asleap"
@@ -10570,7 +10570,7 @@ function initialize_language_strings() {
     arr["CHINA",406]="在给定目录中未检测到BeEF可执行文件"
     arr["CHINA",407]="准备 BeEF "
     arr["CHINA",408]="如果手动安装BeEF,airgeddon可能无法找到它,攻击选项可能显示为受限。您可以尝试使用特殊菜单选项解决此问题。只有当BeEF已经正确安装并且脚本没有检测到它时,它才会工作"
-    arr["CHINA",409]="1. 邪恶双胞胎AP攻击,带嗅探和bettercap-sslstrip2/BeEF"
+    arr["CHINA",409]="1.  邪恶双胞胎AP攻击,带嗅探和bettercap-sslstrip2/BeEF"
     arr["CHINA",410]="2.  尝试解决手动安装的BeEF依赖关系问题"
     arr["CHINA",411]="扫描中启用了WPS筛选器。启动时,按[Ctrl+C]停止..."
     arr["CHINA",412]="您不需要执行此操作。您的BeEF正在运行"

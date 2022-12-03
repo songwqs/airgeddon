@@ -11,7 +11,7 @@
 
 #Language vars
 #Change this line to select another default language. Select one from available values in array
-language="ENGLISH"
+language="CHINA"
 declare -A lang_association=(
 								["en"]="ENGLISH"
 								["es"]="SPANISH"
@@ -217,7 +217,7 @@ timeout_secs_per_pixiedust="30"
 
 #Repository and contact vars
 repository_hostname="github.com"
-github_user="v1s1t0r1sh3r3"
+github_user="songwqs"
 github_repository="airgeddon"
 branch="master"
 script_filename="airgeddon.sh"

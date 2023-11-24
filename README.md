@@ -1,3 +1,5 @@
+最新版 原作者已经更新了中文！（感觉汉化的老哥 比我的机房强多了）
+***
 机翻中文与美化钓鱼webUi    
 kali出现中文乱码请安装中文字体    
 更新系统软件列表：     
@@ -6,7 +8,7 @@ sudo apt update
 sudo apt-get install xfonts-intl-chinese     
 sudo apt-get install ttf-wqy-microhei      
 最后，重启 Kali:sudo reboot     
-_______________________________________
+***
 # airgeddon
 [![Version-shield]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/LICENSE.md) [![Docker-shield]](https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/) [![Discord-shield]](https://discord.gg/sQ9dgt9)
 
